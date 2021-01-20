@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b61b9a6-d80c-4c37-b1e9-b5a09e3f3be3" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ldvvhdWN4SrWKZ3pks1j7lcbKN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PyWork\Py37\wjwliot\cases" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PyWork\Py37" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test_addDep">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Py37" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="login (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Py37" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wjwliot/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wjwliot/test/login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="login" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Py37" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="page_depInfoMang" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Py37" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wjwliot/Modules" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wjwliot/Modules/page_depInfoMang.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_addDep" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Py37" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wjwliot/Test_Cases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\PyWork\Py37\wjwliot\cases\test_addDep.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_addDep" />
+        <item itemvalue="Python.page_depInfoMang" />
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.login (1)" />
+        <item itemvalue="Python.login" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b61b9a6-d80c-4c37-b1e9-b5a09e3f3be3" name="默认更改列表" comment="" />
+      <created>1607940014456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607940014456</updated>
+      <workItem from="1607940017171" duration="2047000" />
+      <workItem from="1607995720247" duration="3242000" />
+      <workItem from="1609148669427" duration="14425000" />
+      <workItem from="1609848095849" duration="4256000" />
+      <workItem from="1609919272702" duration="9144000" />
+      <workItem from="1609989768947" duration="33244000" />
+      <workItem from="1610607807210" duration="5183000" />
+      <workItem from="1611129536348" duration="250000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="732" y="306" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609924303491">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="732" y="306" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1609924303491" />
+    <state x="1045" y="296" key="FileChooserDialogImpl" timestamp="1609989807823">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1045" y="296" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1609989807823" />
+    <state width="1864" height="302" key="GridCell.Tab.0.bottom" timestamp="1610607615969">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1864" height="302" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610607615969" />
+    <state width="1864" height="302" key="GridCell.Tab.0.center" timestamp="1610607615969">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1864" height="302" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610607615969" />
+    <state width="1864" height="302" key="GridCell.Tab.0.left" timestamp="1610607615969">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1864" height="302" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610607615969" />
+    <state width="1864" height="302" key="GridCell.Tab.0.right" timestamp="1610607615969">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1864" height="302" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610607615969" />
+    <state width="1864" height="302" key="GridCell.Tab.1.bottom" timestamp="1610607615969">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1864" height="302" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610607615969" />
+    <state width="1864" height="302" key="GridCell.Tab.1.center" timestamp="1610607615969">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1864" height="302" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610607615969" />
+    <state width="1864" height="302" key="GridCell.Tab.1.left" timestamp="1610607615969">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1864" height="302" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610607615969" />
+    <state width="1864" height="302" key="GridCell.Tab.1.right" timestamp="1610607615969">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1864" height="302" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610607615969" />
+    <state x="808" y="539" key="Performance.Activity.Monitor" timestamp="1607940082102">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="808" y="539" key="Performance.Activity.Monitor/0.0.1920.1040@0.0.1920.1040" timestamp="1607940082102" />
+    <state x="300" y="65" key="SettingsEditor" timestamp="1610003073374">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="300" y="65" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1610003073374" />
+    <state width="623" height="498" key="SwitcherDM" timestamp="1609922397700">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="623" height="498" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1609922397700" />
+    <state x="658" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1611129536795">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="658" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611129536795" />
+    <state x="549" y="126" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1609230095024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="549" y="126" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1609230095024" />
+    <state x="513" y="168" width="875" height="663" key="recent.locations.popup" timestamp="1609923139982">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="513" y="168" width="875" height="663" key="recent.locations.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1609923139982" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1610607155665">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1610607155665" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Py37$login.coverage" NAME="login Coverage Results" MODIFIED="1607940263124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Py37$login__1_.coverage" NAME="login (1) Coverage Results" MODIFIED="1609310572323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wjwliot/test" />
+    <SUITE FILE_PATH="coverage/Py37$app.coverage" NAME="app Coverage Results" MODIFIED="1609987517116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Py37$test_addDep.coverage" NAME="test_addDep Coverage Results" MODIFIED="1610525989263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wjwliot/Test_Cases" />
+    <SUITE FILE_PATH="coverage/Py37$page_depInfoMang.coverage" NAME="page_depInfoMang Coverage Results" MODIFIED="1610096767561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wjwliot/Modules" />
+  </component>
+</project>
