@@ -2,7 +2,7 @@ import time
 
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions
-from selenium.webdriver.common.by import By
+# from selenium.webdriver.common.by import By
 
 
 class BaseAction:
@@ -21,7 +21,7 @@ class BaseAction:
     def __init__(self, driver):
         self.driver = driver
 
-    def click_element(self,feature):
+    def click_element(self, feature):
         self.find_element(*feature).click()
 
     def find_element(self, *feature):
@@ -41,7 +41,9 @@ class BaseAction:
         self.find_element(*feature).send_keys(value)
 
     def change_frame(self, index):
-        self.driver.switch_to.frame(index)
+        frame = self.driver.find_element(*index)
+        # print("%frame.id: ", frame.id)
+        self.driver.switch_to.frame(frame)
 
     def gen_images(self):
         try:

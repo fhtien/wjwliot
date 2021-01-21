@@ -10,6 +10,7 @@ class TestDep:
     def setup(self):
         self.driver = init_driver()
         self.driver.get("localhost:8080")
+        # self.driver.get("http://192.168.18.95:8080/system/DepartmentList1")
         self.dep = depPageAction(self.driver)
         self.dep.click_element(("id", "username"))
         self.dep.send_keys(("id", "username"), 'zongbu')
@@ -20,16 +21,16 @@ class TestDep:
         # self.driver.implicitly_wait(7)
         time.sleep(5)
 
-        print('debug')
+        print('setup结束')
 
     def test_add_dep(self):
         self.dep.get_into_dep()
 
-        self.dep.change_frame(0)
+        self.dep.change_frame(("xpath", "//iframe[@src='/system/DepartmentList1']"))
 
         self.dep.add_dep()
 
-        print('debug')
+
 
     def teardown(self):
         time.sleep(3)
@@ -40,3 +41,4 @@ if __name__ =="__main__":
     obj = TestDep()
     obj.setup()
     obj.test_add_dep()
+    obj.teardown()
