@@ -16,7 +16,7 @@ class depPageAction(BaseAction):
         # 进入单位信息管理
         self.click_element(("xpath", "//a[@data-title='单位信息管理']"))
 
-    def add_dep(self):
+    def add_dep(self, depname):
 
         # 点击最高级别单位
         self.click_element(("xpath", "//table[@id='treeTable1M']"))
@@ -28,11 +28,11 @@ class depPageAction(BaseAction):
         self.change_frame(("xpath", '//*[@src="/system/DepartmentEdit?supdeptid=A26F7C8B-0BA1-446A-BD50-3C77BDA67B29&sszq=&deptCode=59XX"]'))
 
         # 填写单位名称
-        self.send_keys(("xpath", '//*[@id="deptName"]'), "蓝翔支队")  # 批量数据
+        self.send_keys(("xpath", '//*[@id="deptName"]'), depname)  # 批量数据  "蓝翔支队"
 
         # 选择单位类别
         self.click_element(("xpath", '//*[@id="departmentForm"]/div[4]/div[1]/span/span/span/a'))
-        self.click_element(("id", "_easyui_tree_538"))  # 批量数据
+        self.click_element(("id", "_easyui_tree_538"))  # 批量数据 532--555
 
         # 跳出iframe才能点确定
         self.driver.switch_to.parent_frame()

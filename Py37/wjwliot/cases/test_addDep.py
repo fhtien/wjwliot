@@ -3,10 +3,11 @@ sys.path.append(os.getcwd())
 import time
 from wjwliot.basic_action.initDriver import init_driver
 from wjwliot.modules.page_depInfo import depPageAction
-
+import pytest
 
 
 class TestDep:
+    @pytest.mark.parametrize()
     def setup(self):
         self.driver = init_driver()
         self.driver.get("localhost:8080")
@@ -28,13 +29,12 @@ class TestDep:
 
         self.dep.change_frame(("xpath", "//iframe[@src='/system/DepartmentList1']"))
 
-        self.dep.add_dep()
-
-
+        self.dep.add_dep("蓝翔支队")
 
     def teardown(self):
         time.sleep(3)
         self.driver.quit()
+
 
 
 if __name__ =="__main__":

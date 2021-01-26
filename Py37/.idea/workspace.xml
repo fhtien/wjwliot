@@ -14,7 +14,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1ldvvhdWN4SrWKZ3pks1j7lcbKN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -184,7 +188,8 @@
       <workItem from="1609919272702" duration="9144000" />
       <workItem from="1609989768947" duration="33244000" />
       <workItem from="1610607807210" duration="5183000" />
-      <workItem from="1611129536348" duration="17451000" />
+      <workItem from="1611129536348" duration="35234000" />
+      <workItem from="1611654787171" duration="520000" />
     </task>
     <servers />
   </component>
@@ -204,22 +209,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1045" y="296" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1609989807823" />
-    <state width="1864" height="415" key="GridCell.Tab.0.bottom" timestamp="1611228613081">
+    <state width="1864" height="507" key="GridCell.Tab.0.bottom" timestamp="1611654994522">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1864" height="415" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611228613081" />
-    <state width="1864" height="415" key="GridCell.Tab.0.center" timestamp="1611228613081">
+    <state width="1864" height="507" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611654994522" />
+    <state width="1864" height="507" key="GridCell.Tab.0.center" timestamp="1611654994522">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1864" height="415" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611228613081" />
-    <state width="1864" height="415" key="GridCell.Tab.0.left" timestamp="1611228613081">
+    <state width="1864" height="507" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611654994522" />
+    <state width="1864" height="507" key="GridCell.Tab.0.left" timestamp="1611654994522">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1864" height="415" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611228613081" />
-    <state width="1864" height="415" key="GridCell.Tab.0.right" timestamp="1611228613081">
+    <state width="1864" height="507" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611654994522" />
+    <state width="1864" height="507" key="GridCell.Tab.0.right" timestamp="1611654994522">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1864" height="415" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611228613081" />
+    <state width="1864" height="507" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611654994522" />
     <state width="1864" height="302" key="GridCell.Tab.1.bottom" timestamp="1610607615969">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -268,8 +273,8 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Py37$login.coverage" NAME="login Coverage Results" MODIFIED="1607940263124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Py37$login__1_.coverage" NAME="login (1) Coverage Results" MODIFIED="1609310572323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wjwliot/test" />
-    <SUITE FILE_PATH="coverage/Py37$test_addDep__1_.coverage" NAME="test_addDep (1) Coverage Results" MODIFIED="1611228613069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wjwliot/cases" />
-    <SUITE FILE_PATH="coverage/Py37$page_depInfo.coverage" NAME="page_depInfo Coverage Results" MODIFIED="1611228607757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wjwliot/modules" />
+    <SUITE FILE_PATH="coverage/Py37$test_addDep__1_.coverage" NAME="test_addDep (1) Coverage Results" MODIFIED="1611654994512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wjwliot/cases" />
+    <SUITE FILE_PATH="coverage/Py37$page_depInfo.coverage" NAME="page_depInfo Coverage Results" MODIFIED="1611654986425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wjwliot/modules" />
     <SUITE FILE_PATH="coverage/Py37$app.coverage" NAME="app Coverage Results" MODIFIED="1609987517116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Py37$test_addDep.coverage" NAME="test_addDep Coverage Results" MODIFIED="1610525989263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wjwliot/Test_Cases" />
     <SUITE FILE_PATH="coverage/Py37$elementLocating.coverage" NAME="elementLocating Coverage Results" MODIFIED="1611220883825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wjwliot" />
